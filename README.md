@@ -16,7 +16,7 @@
         <p>Feel free to explore and modify the code!</p>
     </main>
     <footer>
-        <p>&copy; 2023 My Simple Website</p>
+        <p>&copy; 2025 My Simple Website</p>
     </footer>
 </body>
 </html>
