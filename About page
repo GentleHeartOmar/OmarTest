@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>About This Project</h1>
+    </header>
+    <section>
+        <h2>Project Name</h2>
+        <p>This is a description of the project. It explains what the project is about, its purpose, and how it works.</p>
+        <h2>Technologies Used</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+        <h2>Contact Information</h2>
+        <p>If you have any questions, feel free to contact us at <a href="mailto:example@example.com">example@example.com</a>.</p>
+    </section>
+</body>
+</html>
