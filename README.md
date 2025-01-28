@@ -9,14 +9,14 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple Website</h1>
+        <h1>Welcome to Omar's Simple Website</h1>
     </header>
     <main>
-        <p>This is a simple website demonstrating basic HTML and CSS.</p>
+        <p>This is a demo simple website demonstrating basic HTML and CSS.</p>
         <p>Feel free to explore and modify the code!</p>
     </main>
     <footer>
-        <p>&copy; 2025 My Simple Website</p>
+        <p>&copy; 2025 Omar's Website</p>
     </footer>
 </body>
 </html>
